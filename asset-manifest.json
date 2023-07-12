@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NitinsTextUtils/static/css/main.6f2f46bc.css",
+    "main.js": "/NitinsTextUtils/static/js/main.212297e9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/NitinsTextUtils/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/NitinsTextUtils/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NitinsTextUtils/index.html",
+    "main.6f2f46bc.css.map": "/NitinsTextUtils/static/css/main.6f2f46bc.css.map",
+    "main.212297e9.js.map": "/NitinsTextUtils/static/js/main.212297e9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/NitinsTextUtils/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f2f46bc.css",
+    "static/js/main.212297e9.js"
+  ]
+}
